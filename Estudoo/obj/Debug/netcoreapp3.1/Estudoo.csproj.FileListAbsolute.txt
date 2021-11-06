@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.exe
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.deps.json
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.runtimeconfig.json
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.runtimeconfig.dev.json
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.dll
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\bin\Debug\netcoreapp3.1\Estudoo.pdb
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.csproj.AssemblyReference.cache
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.AssemblyInfo.cs
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.dll
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.pdb
+C:\Users\Jean\Documents\faculdade\c#\estudo\Estudoo\obj\Debug\netcoreapp3.1\Estudoo.genruntimeconfig.cache
